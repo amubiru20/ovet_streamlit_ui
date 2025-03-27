@@ -8,11 +8,11 @@ dog_breeds = sorted([
     "Golden Retriever", "Labrador Retriever", "Poodle", "Shih Tzu", "Yorkshire Terrier"
 ])
 
-cat_breeds = sorted(["Domestic Shorthair", "American Shorthair", "Domestic Longhair", "Ragdoll",
+cat_breeds = sorted([
+    "Domestic Shorthair", "American Shorthair", "Domestic Longhair", "Ragdoll",
     "Siamese", "Bengal", "Maine Coon", "British Shorthair", "Persian", "Russian Blue",
     "Sphynx", "Scottish Fold", "Exotic Shorthair", "Oriental Shorthair", "Burmese",
     "Devon Rex", "Himalayan", "Abyssinian", "Birman", "Norwegian Forest Cat"
-
 ])
 
 minor_health_conditions = sorted([
