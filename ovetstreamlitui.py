@@ -147,7 +147,7 @@ if submit:
             "weight": weight,
             "body_score": body_score,
             "activity_level": activity_level,
-            "major_health_conditions": major_conditions_selected,
+            "major_health_conditions": major_health_conditions_selected,
             "minor_health_conditions": minor_health_conditions_selected,
             "cat_specific_conditions": cat_specific_conditions_selected,
             "allergy": has_allergy,
